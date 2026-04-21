@@ -96,7 +96,7 @@ export function CompanyRegistrationSection() {
                   {/* CTA Button with Gradient */}
                   <div>
                     <a
-                      href="tel:+971528008051"
+                      href="tel:+447765211527"
                       className="inline-flex items-center justify-center px-8 py-3.5 rounded-full bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] text-white font-semibold text-sm tracking-wide shadow-[0_8px_32px_rgba(213,64,255,0.4)] transition-all duration-300 hover:shadow-[0_12px_48px_rgba(213,64,255,0.6)] hover:scale-[1.03]"
                     >
                       Call Now

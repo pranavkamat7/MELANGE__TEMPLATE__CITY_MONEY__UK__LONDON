@@ -88,13 +88,13 @@ export function ContactSection() {
 
                 {/* Phone */}
                 <a
-                  href="tel:+971528008051"
+                  href="tel:+447765211527"
                   className="flex items-center gap-4 text-white/70 hover:text-white transition-colors duration-300"
                 >
                   <div className="p-3 bg-white/10 rounded-xl group-hover:bg-white/15 transition">
                     <Phone size={20} />
                   </div>
-                  <span className="text-lg">+971 52 800 8051</span>
+                  <span className="text-lg">+44 7765211527</span>
                 </a>
               </div>
             </div>
